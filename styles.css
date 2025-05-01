@@ -1,0 +1,13 @@
+.mi-carrusel {
+    height: 500px; /* Ajusta a tu gusto */
+  }
+  
+  .mi-carrusel .carousel-item {
+    height: 100%;
+  }
+  
+  .mi-carrusel img {
+    height: 100%;
+    object-fit: cover;
+  }
+  
